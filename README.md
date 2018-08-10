@@ -1,6 +1,11 @@
 # inotifywait
 Execute rsync when file changed
 
+## Prerequisites
+
+Please install inotifywait (https://linux.die.net/man/1/inotifywait) first
+
+
 ## Getting started
 
 1. Create folder **/home/oracle/tmps**
