@@ -3,7 +3,7 @@ Execute rsync when file changed
 
 ## Getting started
 
-1. Create folder **~/tmps**
+1. Create folder **/home/oracle/tmps**
 
 2. Put script **sync_10.4.18.101.sh** in to home directory (~)
 
